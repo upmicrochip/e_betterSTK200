@@ -1,2 +1,5 @@
-EAGLE 7.1.0 fles formats.
-Better STK200 - avr programmer.
+Better STK200 - AVR programmer.
+
+EAGLE 7.1.0 files formats:
+1. .sch - EAGLE schematic
+2. .brd - EAGLE PCB board
